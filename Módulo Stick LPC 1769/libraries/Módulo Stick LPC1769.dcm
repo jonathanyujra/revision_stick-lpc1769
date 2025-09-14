@@ -1,0 +1,19 @@
+EESchema-DOCLIB  Version 2.0
+#
+$CMP 74LVC1G04GW
+F https://assets.nexperia.com/documents/data-sheet/74LVC1G04.pdf
+$ENDCMP
+#
+$CMP Conn_01x27
+D Generic connector, single row, 01x40, script generated (kicad-library-utils/schlib/autogen/connector/)
+K connector
+F ~
+$ENDCMP
+#
+$CMP XC6220B331MR-G
+D 1A, Low Drop-out Voltage Regulator, Fixed Output 3.3V, SOT-23-5
+K LDO Voltage Regulator 1A
+F https://www.torexsemi.com/file/xc6220/XC6220.pdf
+$ENDCMP
+#
+#End Doc Library
